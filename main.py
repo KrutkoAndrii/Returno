@@ -7,10 +7,11 @@ import smtplib
 from email.mime.text import MIMEText
 from datetime import datetime
 import easyocr
+import os
 import re
 from PIL import Image
 
-API_TOKEN = "8482946212:AAETAUihHQRxFlc0CAzHGKRKZG3xWtgxHuY"
+API_TOKEN = os.getenv("API_TOKEN")
 bot = telebot.TeleBot(API_TOKEN)
 
 with open("rules.json", "r", encoding="utf-8") as f:
