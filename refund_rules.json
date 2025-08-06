@@ -1,0 +1,72 @@
+﻿{
+    "glovo": {
+        "name": "Glovo",
+        "synonyms": [
+            "glovo",
+            "глово",
+            "glow"
+        ],
+        "contact_type": "email",
+        "contact_email": [
+            "support@glovoapp.com"
+        ],
+        "rules_url": "https://glovoapp.com/ua/uk/legal/terms/",
+        "language": "ua",
+        "template": "Звернення щодо компенсації за затримку/недоставку"
+    },
+    "rozetka": {
+        "name": "Rozetka",
+        "synonyms": [
+            "rozetka",
+            "розетка"
+        ],
+        "contact_type": "email",
+        "contact_email": [
+            "help@rozetka.com.ua"
+        ],
+        "rules_url": "https://help.rozetka.com.ua/uk/returns/",
+        "language": "ua",
+        "template": "Звернення щодо повернення коштів або скарги"
+    },
+    "meest": {
+        "name": "Meest",
+        "synonyms": [
+            "meest",
+            "міст"
+        ],
+        "contact_type": "email",
+        "contact_email": [
+            "support@meest.com"
+        ],
+        "rules_url": "https://meest.com/ua/help/faq",
+        "language": "ua",
+        "template": "Претензія щодо доставки"
+    },
+    "nova_poshta": {
+        "name": "Nova Poshta",
+        "synonyms": [
+            "nova poshta",
+            "нова пошта",
+            "np"
+        ],
+        "contact_type": "form",
+        "contact_url": "https://novaposhta.ua/feedback",
+        "rules_url": "https://novaposhta.ua/rights",
+        "language": "ua",
+        "template": "Звернення щодо компенсації за послугу"
+    },
+    "bolt_food": {
+        "name": "Bolt Food",
+        "synonyms": [
+            "bolt food",
+            "болт фуд"
+        ],
+        "contact_type": "email",
+        "contact_email": [
+            "support-food@bolt.eu"
+        ],
+        "rules_url": "https://bolt.eu/uk/legal/",
+        "language": "ua",
+        "template": "Скарга щодо замовлення доставки"
+    }
+}
